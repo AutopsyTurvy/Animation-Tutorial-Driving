@@ -25,5 +25,6 @@ $(document).ready(function () {
         $img.attr("src", cars[1]);
       }
     }
+    
   });
 });
